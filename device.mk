@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
     init.qcom.factory.rc \
     init.target.rc \
     init.qcom.rc \
+    init.qti.ufs.rc \
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/fstab.default:$(TARGET_COPY_OUT_RAMDISK)/fstab.default
