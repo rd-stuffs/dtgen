@@ -105,7 +105,6 @@ qcom.hw.aac.encoder=true
 qemu.hw.mainkeys=0
 ril.subscription.types=NV,RUIM
 rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
-ro.adb.secure=1
 ro.audio.monitorRotation=true
 ro.bluetooth.a2dp_offload.supported=true
 ro.carrier=unknown

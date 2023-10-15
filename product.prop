@@ -18,7 +18,6 @@ persist.sys.minfree_def=73728,92160,110592,154832,482560,579072
 persist.sys.miui_animator_sched.bigcores=6-7
 persist.sys.miui_animator_sched.sched_threads=0
 persist.sys.qseelogd=true
-persist.sys.usb.config=none
 ro.af.client_heap_size_kbyte=7168
 ro.com.android.dataroaming=false
 ro.com.google.acsa=true
